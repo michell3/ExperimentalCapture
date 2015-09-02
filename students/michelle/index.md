@@ -1,14 +1,15 @@
-# Your Name
+# Michelle Ma
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo sed lorem pulvinar suscipit. Curabitur a consequat dolor, ut efficitur metus. Sed fermentum leo vitae tellus sollicitudin, id auctor elit tincidunt. Aliquam interdum fringilla mauris non volutpat. Cras scelerisque justo diam, nec rhoncus ipsum tristique nec.
+I'm a Junior studying Computer Science and Fine Art at Carnegie Mellon University. In this class, I hope to learn more about the techniques used to capture reality, and more specifically, use data captured from motion to generate animations or forms.
 
 --
 ### Contact
 
-* Web Site: [http://example.com](http://example.com)
-* Twitter: [@your_name](http://twitter.com/your_name)
+* Web Site: [michelledoeswhat.com](http://michelledoeswhat.com)
+* Vimeo: [vimeo.com/michell3](http://vimeo.com/michell3)
+* Twitter: [@ma_michell3](http://twitter.com/ma_michell3)
 
 -- 
 ### Projects
